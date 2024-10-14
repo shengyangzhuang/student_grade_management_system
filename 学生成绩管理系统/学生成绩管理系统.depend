@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591181111 source:d:\codeblock\project\学生成绩管理系统\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<cstring>
+	<fstream>
+
